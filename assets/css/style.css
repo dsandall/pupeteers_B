@@ -10,7 +10,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Protest Strike";
+  letter-spacing: 2px; /* Adjust the value as needed */
   color: #444444;
 }
 
@@ -30,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Protest Strike", sans-serif;
 }
 
 #main {
@@ -105,7 +106,7 @@ h6 {
   line-height: 1;
   font-weight: 700;
   letter-spacing: 1px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Protest Strike";
   text-transform: uppercase;
 }
 
@@ -157,7 +158,7 @@ h6 {
   justify-content: space-between;
   padding: 8px 16px;
   margin-left: 10px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Protest Strike";
   font-size: 16px;
   font-weight: 700;
   color: #fff;
@@ -776,7 +777,7 @@ section {
 .counts .count-box p {
   padding: 15px 0 0 0;
   margin: 0 0 0 60px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Protest Strike";
   font-size: 14px;
   color: #49788c;
 }
@@ -787,7 +788,7 @@ section {
   margin-top: 20px;
   color: #49788c;
   font-size: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Protest Strike";
   transition: ease-in-out 0.3s;
 }
 
@@ -815,7 +816,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Protest Strike";
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -1339,7 +1340,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Protest Strike", sans-serif;
 }
 
 #footer .footer-top .social-links a {
